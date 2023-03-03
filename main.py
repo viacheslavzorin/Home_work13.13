@@ -30,9 +30,3 @@ item.long_name = 'СуперСмартфон'
 print(Item.is_integer(5))
 print(Item.is_integer(5.0))
 print(Item.is_integer(5.5))
-
-
-
-
-
-
